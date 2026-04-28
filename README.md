@@ -6,6 +6,8 @@ A collection of football analytics notebooks demonstrating advanced statistical 
 
 This portfolio covers four analytical areas spanning play-by-play data, player tracking (NFL Big Data Bowl 2023), and PFF scouting data. Each notebook contains reproducible analysis with real findings that translate directly to on-field strategy and personnel evaluation.
 
+Notebooks bridge the **nflfastR (R) ecosystem to Python** — data loaded via `nfl_data_py` and feature engineering ported from canonical R workflows.
+
 ---
 
 ## Notebooks
